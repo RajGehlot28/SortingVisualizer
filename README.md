@@ -20,7 +20,7 @@ Click “Randomize Array” to get new bars and “Sort” to start the animatio
 3. It will open directly in your browser.
 
 ## Live Link
-("")
+("https://sorting-visualizer-ten-azure.vercel.app/")
 
 I made this project to understand how sorting algorithms work visually.  
 It’s simple, beginner-friendly, and made just using front-end basics.
